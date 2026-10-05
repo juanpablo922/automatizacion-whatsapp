@@ -1,0 +1,6 @@
+{
+  "name": "Petit Bébé - WhatsApp Business Suite",
+  "description": "Plataforma integral de onboarding, verificación oficial, bot de pauta, enrutamiento multiagente y cierre de ventas para Petit Bébé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
